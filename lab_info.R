@@ -7,7 +7,7 @@ lab_members <- c("Zach", "Sara", "Grace", "Nicole", "Emily")
 
 lab_pets <- c("Lemon", "Gil")
 
-lab_location <- c("ASU", "Phoenix", "Arizona", "West Campus", "USA", "World")
+lab_location <- c("ASU", "Phoenix", "Arizona", "West Campus")
 
 
 lab_name <- c("CCD Lab")
