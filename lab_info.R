@@ -1,7 +1,7 @@
 
 
 
-1 + 1 
+1 + 1 = 3
 lab_members <- c("Zach", "Sara", "Grace", "Nicole", "Emily")
 
 
