@@ -12,5 +12,5 @@ lab_location <- c("ASU", "Phoenix", "Arizona", "West Campus")
 
 lab_name <- c("CCD Lab")
 
-lab_PI <- c("Zach", "Angel")
+lab_PIs <- c("Zach", "Angel")
 
