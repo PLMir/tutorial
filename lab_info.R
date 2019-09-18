@@ -2,7 +2,7 @@
 
 
 
-lab_members <- c("Zach", "Sarah", "Grace", "Nicole", "Emily", "modellers", "Santa")
+lab_members <- c("Zach", "Sarah", "Grace", "Nicole", "Emily")
 
 
 lab_pets <- c("Lemon", "Gil")
